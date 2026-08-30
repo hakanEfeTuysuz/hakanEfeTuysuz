@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Merhaba,%20Ben%20Hakan%20Efe!%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20Mühendisliği%20Öğrencisi%20%7C%20Yazılım%20Geliştirici&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=hakanEfeTuysuz&label=Profil%20Ziyareti&color=2E3192&style=flat-square" alt="Görüntülenme Sayısı" />
-<img src="https://img.shields.io/github/followers/hakanEfeTuysuz?label=Takipçi&style=flat-square&color=2E3192" alt="Takipçi Sayısı"/>
-<img src="https://img.shields.io/badge/status-öğrenci-1BFFFF?style=flat-square" alt="Durum"/>
-
 </div>
 
 <br/>
@@ -18,6 +14,17 @@ Sakarya Üniversitesi'nde **4. sınıf Bilgisayar Mühendisliği** öğrencisiyi
 - 🌱 IoT tabanlı bir robot projesi geliştirerek donanım-yazılım entegrasyonu üzerine deneyim kazandım
 - 💡 Karmaşık problemleri çözmeyi ve yeni teknolojiler denemeyi seviyorum
 - 📫 Bana aşağıdaki kanallardan ulaşabilirsiniz
+
+<div align="center">
+
+<a href="mailto:hakanefetuysuz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/hakanEfeTuysuz">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
 
 <br/>
 
@@ -96,25 +103,10 @@ Sakarya Üniversitesi'nde **4. sınıf Bilgisayar Mühendisliği** öğrencisiyi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hakanEfeTuysuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Hakan'ın GitHub İstatistikleri" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanEfeTuysuz&layout=compact&theme=dracula&langs_count=6&hide_border=true" alt="En Çok Kullanılan Diller" width="42%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=hakanEfeTuysuz&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="Hakan'ın GitHub İstatistikleri" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hakanEfeTuysuz&layout=compact&theme=dracula&langs_count=6&hide_border=true" alt="En Çok Kullanılan Diller" width="42%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanEfeTuysuz&theme=dracula&hide_border=true" alt="GitHub Streak" width="60%"/>
-
-</div>
-
-<br/>
-
-## 📫 Bana Ulaşın
-
-<div align="center">
-
-<a href="mailto:hakanefetuysuz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/hakanEfeTuysuz">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=hakanEfeTuysuz&theme=dracula&hide_border=true" alt="GitHub Streak" width="60%"/>
 
 </div>
 
