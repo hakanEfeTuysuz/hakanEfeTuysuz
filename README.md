@@ -13,6 +13,7 @@ Sakarya Üniversitesi'nde **4. sınıf Bilgisayar Mühendisliği** öğrencisiyi
 - 🔭 Şu anda backend geliştirme ve makine öğrenmesi projeleri üzerinde çalışıyorum
 - 🌱 IoT tabanlı bir robot projesi geliştirerek donanım-yazılım entegrasyonu üzerine deneyim kazandım
 - 💡 Karmaşık problemleri çözmeyi ve yeni teknolojiler denemeyi seviyorum
+- 🧩 Algoritma pratiklerimi [LeetCode](https://leetcode.com/u/JHhLDQLhoK/) üzerinden takip edebilirsiniz
 - 📫 Bana aşağıdaki kanallardan ulaşabilirsiniz
 
 <div align="center">
@@ -22,6 +23,9 @@ Sakarya Üniversitesi'nde **4. sınıf Bilgisayar Mühendisliği** öğrencisiyi
 </a>
 <a href="https://github.com/hakanEfeTuysuz">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://leetcode.com/u/JHhLDQLhoK/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 </div>
@@ -36,35 +40,51 @@ Sakarya Üniversitesi'nde **4. sınıf Bilgisayar Mühendisliği** öğrencisiyi
 | 🤖 **Makine Öğrenmesi & Veri Bilimi** | Zaman serisi analizleri (örn. BIST 100 yön tahmini), Pandas, NumPy, Matplotlib |
 | 🌐 **Backend Geliştirme** | ASP.NET Core MVC, Entity Framework Core, LINQ, RESTful API'ler |
 | 🛠️ **IoT & Donanım** | NodeMCU ESP8266, akıllı sistemler, keşif araçları |
-| 🏆 **Algoritma & Problem Çözme** | LeetCode pratiği (Dinamik Programlama, Bit Manipülasyonu) |
+| 🏆 **Algoritma & Problem Çözme** | [LeetCode](https://leetcode.com/u/JHhLDQLhoK/) pratiği (Dinamik Programlama, Bit Manipülasyonu) |
 
 <br/>
 
 ## 🛠️ Teknolojiler ve Araçlar
 
-**Diller**
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<table>
+<tr><td align="center" colspan="6"><b>Diller</b></td></tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></td>
+<td align="center"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></td>
+<td align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></td>
+<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr><td align="center" colspan="6"><b>Frameworkler & Kütüphaneler</b></td></tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></td>
+</tr>
+<tr>
+<td align="center" colspan="3"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr><td align="center" colspan="6"><b>Araçlar & Platformlar</b></td></tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></td>
+<td align="center"><img src="https://img.shields.io/badge/NodeMCU_ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="NodeMCU ESP8266" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></td>
+<td></td>
+</tr>
+</table>
 
-**Frameworkler & Kütüphaneler**
-
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-
-**Araçlar & Platformlar**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/NodeMCU_ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="NodeMCU ESP8266" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</div>
 
 <br/>
 
@@ -107,6 +127,16 @@ Sakarya Üniversitesi'nde **4. sınıf Bilgisayar Mühendisliği** öğrencisiyi
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hakanEfeTuysuz&layout=compact&theme=dracula&langs_count=6&hide_border=true" alt="En Çok Kullanılan Diller" width="42%"/>
 
 <img src="https://streak-stats.demolab.com/?user=hakanEfeTuysuz&theme=dracula&hide_border=true" alt="GitHub Streak" width="60%"/>
+
+</div>
+
+## 🧠 LeetCode İstatistikleri
+
+<div align="center">
+
+<a href="https://leetcode.com/u/JHhLDQLhoK/">
+  <img src="https://leetcard.jacoblin.cool/JHhLDQLhoK?theme=dark&ext=heatmap" alt="LeetCode İstatistikleri" width="60%"/>
+</a>
 
 </div>
 
