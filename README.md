@@ -116,11 +116,11 @@ Sakarya Üniversitesi'nde **4. sınıf Bilgisayar Mühendisliği** öğrencisiyi
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=hakanEfeTuysuz&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="Hakan'ın GitHub İstatistikleri" width="90%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=hakanEfeTuysuz&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="Hakan'ın GitHub İstatistikleri" width="65%"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hakanEfeTuysuz&layout=compact&theme=dracula&langs_count=6&hide_border=true" alt="En Çok Kullanılan Diller" width="90%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hakanEfeTuysuz&layout=compact&theme=dracula&langs_count=6&hide_border=true" alt="En Çok Kullanılan Diller" width="65%"/>
 
-<img src="https://streak-stats.demolab.com/?user=hakanEfeTuysuz&theme=dracula&hide_border=true" alt="GitHub Streak" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=hakanEfeTuysuz&theme=dracula&hide_border=true" alt="GitHub Streak" width="65%"/>
 
 </div>
 
@@ -129,7 +129,7 @@ Sakarya Üniversitesi'nde **4. sınıf Bilgisayar Mühendisliği** öğrencisiyi
 <div align="center">
 
 <a href="https://leetcode.com/u/JHhLDQLhoK/">
-  <img src="https://leetcard.jacoblin.cool/JHhLDQLhoK?theme=dark&ext=heatmap" alt="LeetCode İstatistikleri" width="90%"/>
+  <img src="https://leetcard.jacoblin.cool/JHhLDQLhoK?theme=dark&ext=heatmap" alt="LeetCode İstatistikleri" width="65%"/>
 </a>
 
 </div>
