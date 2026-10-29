@@ -10,7 +10,7 @@
 
 Sakarya Üniversitesi'nde **4. sınıf Bilgisayar Mühendisliği** öğrencisiyim. Nesne yönelimli programlamadan makine öğrenmesine, web geliştirmeden IoT tabanlı robotik projelere kadar geniş bir yelpazede projeler geliştiriyorum.
 
-- 🔭 Şu anda backend geliştirme ve makine öğrenmesi projeleri üzerinde çalışıyorum
+- 🔭 ROS 2 kullanarak otonom mobil robotlar ve donanım-yazılım entegrasyonu üzerine projeler geliştiriyorum.
 - 🌱 IoT tabanlı bir robot projesi geliştirerek donanım-yazılım entegrasyonu üzerine deneyim kazandım
 - 💡 Karmaşık problemleri çözmeyi ve yeni teknolojiler denemeyi seviyorum
 - 🧩 Algoritma pratiklerimi [LeetCode](https://leetcode.com/u/JHhLDQLhoK/) üzerinden takip edebilirsiniz
